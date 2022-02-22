@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vidhigarg83
+-    I'm frontend Web Developer.
 - 👀 I’m interested in C++/C and Machine Learning 
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on C++ based Projects
+- 🌱 I’m currently learning Data Structures and Algorithms and Backend Development.
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me ...
 
 <!---
